@@ -1,3 +1,7 @@
+richard 备注
+--------
+修改了一些问题， 解决无法在tornador 5.1.1环境下起来的问题
+
 About Gate One
 ==============
 `Gate One <http://liftoffsoftware.com/Products/GateOne>`_ is an HTML5 web-based terminal emulator and SSH client.  Top features:
